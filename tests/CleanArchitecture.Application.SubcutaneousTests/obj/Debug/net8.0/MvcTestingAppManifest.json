@@ -1,0 +1,8 @@
+{
+  "CleanArchitecture.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\uki\\OneDrive\\Documentos\\Git\\engine-api\\src\\CleanArchitecture.Api",
+  "CleanArchitecture.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\uki\\OneDrive\\Documentos\\Git\\engine-api\\src\\CleanArchitecture.Application",
+  "CleanArchitecture.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\uki\\OneDrive\\Documentos\\Git\\engine-api\\src\\CleanArchitecture.Contracts",
+  "CleanArchitecture.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\uki\\OneDrive\\Documentos\\Git\\engine-api\\src\\CleanArchitecture.Domain",
+  "CleanArchitecture.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\uki\\OneDrive\\Documentos\\Git\\engine-api\\src\\CleanArchitecture.Infrastructure",
+  "TestCommon, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\uki\\OneDrive\\Documentos\\Git\\engine-api\\tests\\TestCommon"
+}

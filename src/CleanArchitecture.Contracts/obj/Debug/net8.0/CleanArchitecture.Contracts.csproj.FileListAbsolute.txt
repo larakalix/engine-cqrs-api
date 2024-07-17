@@ -1,0 +1,12 @@
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\bin\Debug\net8.0\CleanArchitecture.Contracts.deps.json
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\bin\Debug\net8.0\CleanArchitecture.Contracts.dll
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\bin\Debug\net8.0\CleanArchitecture.Contracts.pdb
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\obj\Debug\net8.0\CleanArchitecture.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\obj\Debug\net8.0\CleanArchitecture.Contracts.AssemblyInfoInputs.cache
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\obj\Debug\net8.0\CleanArchitecture.Contracts.AssemblyInfo.cs
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\obj\Debug\net8.0\CleanArchitecture.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\obj\Debug\net8.0\CleanArchitecture.Contracts.sourcelink.json
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\obj\Debug\net8.0\CleanArchitecture.Contracts.dll
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\obj\Debug\net8.0\refint\CleanArchitecture.Contracts.dll
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\obj\Debug\net8.0\CleanArchitecture.Contracts.pdb
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Contracts\obj\Debug\net8.0\ref\CleanArchitecture.Contracts.dll

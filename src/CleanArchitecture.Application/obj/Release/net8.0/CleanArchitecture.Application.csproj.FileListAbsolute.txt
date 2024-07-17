@@ -1,0 +1,16 @@
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\bin\Release\net8.0\CleanArchitecture.Application.deps.json
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\bin\Release\net8.0\CleanArchitecture.Application.dll
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\bin\Release\net8.0\CleanArchitecture.Application.pdb
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\bin\Release\net8.0\CleanArchitecture.Domain.dll
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\bin\Release\net8.0\CleanArchitecture.Domain.pdb
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\CleanArchitecture.Application.sourcelink.json
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\CleanArc.03AFA812.Up2Date
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\CleanArchitecture.Application.dll
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\refint\CleanArchitecture.Application.dll
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\CleanArchitecture.Application.pdb
+C:\Users\uki\OneDrive\Documentos\Git\engine-api\src\CleanArchitecture.Application\obj\Release\net8.0\ref\CleanArchitecture.Application.dll

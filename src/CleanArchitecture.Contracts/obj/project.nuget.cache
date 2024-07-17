@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOKQniQbq3s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\uki\\OneDrive\\Documentos\\Git\\engine-api\\src\\CleanArchitecture.Contracts\\CleanArchitecture.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uki\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.556\\stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "C:\\Users\\uki\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.556\\stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512"
+  ],
+  "logs": []
+}
